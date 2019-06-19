@@ -9,3 +9,17 @@ el programa valida si se han igresado algunos argumentos en
  dependiendo del argumento 
 
 
+punto3
+¿Que hace la funcion atoi?
+convierte la cadena de caracteres introducida como argumento al
+ momento de ejecuta el codigo a un numero entero
+
+Ademas de atoi existen otras funciones que permitan convertir
+ cadenas de caracteres a numeros reales ¿cuales?
+atof conviernet los caracteres en numeros float o de punto flotante
+atol conviernet los caracteres en numeros enteros largos o int lon
+
+Existen funciones que convierten valores numericos a cadenas de 
+caracteres ¿cuales?
+atoa  toma un numero y lo convierte en un caracter 
+sprintf toma un numero y lo convierte en un arreglo de caracteres

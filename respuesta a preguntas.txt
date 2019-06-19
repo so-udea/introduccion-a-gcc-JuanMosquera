@@ -1,0 +1,11 @@
+punto 2
+¿Que hacen los parametros argc y argv?
+el parametro argc es el tamaño del array o el numero de argumentos
+ que se introducen al ejecutar el codigo
+el parametro argv es el array que contiene los argumentos 
+introducidos al ejecutar el codigo
+el programa valida si se han igresado algunos argumentos en
+ especifico y si es asi imprime en consola un mensaje
+ dependiendo del argumento 
+
+
